@@ -1,4 +1,4 @@
-t# FILES BELONGS TO @THEDEADLYBOTS 
+# FILES BELONGS TO @THEDEADLYBOTS 
 
 import os
 from dotenv import load_dotenv
